@@ -12,7 +12,6 @@ Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento de
 - [Cap 5 - Explosões, Referenciação e Manipulação de Entidades dentro do FiveM](#cap-5---explosões-referenciação-e-manipulação-de-entidades-dentro-do-fivem)
 - [Cap 6 - Corrotinas e Threads](#cap-6---corrotinas-e-threads)
 - Mais capítulos serão adicionados conforme o progresso no curso
-- Mais capítulos serão adicionados conforme o progresso no curso
 
 ## 📝 Detalhes dos Capítulos
 
