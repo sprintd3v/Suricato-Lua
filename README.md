@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f3a83972-12be-45ba-ae88-ab26bc2574cb)
+![image](https://github.com/user-attachments/assets/73943f67-f4fb-4ecf-85b4-24396c590aa2)![image](https://github.com/user-attachments/assets/f3a83972-12be-45ba-ae88-ab26bc2574cb)
 # Curso Lua FiveM - Study Repository
 
 Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento dentro do FiveM! Este repositório documenta tudo que estou aprendendo, organizado por capítulos e tópicos, desde a programação básica até a aplicação avançada dentro do ambiente de servidores FiveM.
@@ -93,6 +93,22 @@ Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento de
 - Criando, ativando, pausando e reativando corrotinas segundo os dogmas
 - Entendendo a aplicação de múltiplas corrotinas no ambiente do FiveM
 - Entendendo nativas que funcionam por frame matematicamente 
+
+### Cap 7 - Trabalhando com nativos por frame
+
+- Entendendo nativas de pressionamento de controles
+- Uso de keymapping para evitar excesso de repetições
+- Aplicando nativos por frame e entendendo otimizações
+
+### Cap 8 - Criando sistemas com nativos
+
+- Dicionários e animações
+- Criando um sistema simulador de farm com blip, animação e sincronização
+- Comando de `/dv`
+- Comando beber (sincronização de attach com animação)
+- Comando colete
+- Sistema de agachar e levantar no CTRL
+- Sistema de reinicialização de scripts integrado
 
 ### 🛠 Ferramentas Utilizadas
 
