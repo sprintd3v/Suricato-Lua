@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/73943f67-f4fb-4ecf-85b4-24396c590aa2)![image](https://github.com/user-attachments/assets/f3a83972-12be-45ba-ae88-ab26bc2574cb)
+![image](https://github.com/user-attachments/assets/f3a83972-12be-45ba-ae88-ab26bc2574cb)
 # Curso Lua FiveM - Study Repository
 
 Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento dentro do FiveM! Este repositório documenta tudo que estou aprendendo, organizado por capítulos e tópicos, desde a programação básica até a aplicação avançada dentro do ambiente de servidores FiveM.
