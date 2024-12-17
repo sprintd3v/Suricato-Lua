@@ -120,3 +120,4 @@ Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento de
 ---
 
 > Este repositório será constantemente atualizado conforme o avanço no curso. Me acompanhe nessa jornada de constante aprendizado!
+
