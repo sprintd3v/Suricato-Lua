@@ -6,6 +6,7 @@ Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento de
 
 ## 📚 Capítulos
 
+
 - [Cap 1 - Introdução Elementar ao Lua](#cap-1---introdução-elementar-ao-lua)
 - [Cap 2 - LUA e Lógica](#cap-2---lua-e-lógica)
 - [Cap 3 - Bibliotecas Nativas](#cap-3---bibliotecas-nativas)
