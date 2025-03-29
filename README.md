@@ -18,6 +18,7 @@ Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento de
 ## 📝 Detalhes dos Capítulos
 
 
+
 ### Cap 1 - Introdução Elementar ao Lua
 - Impressão de dados primitivos e variáveis
 - Atribuição de variáveis e estrutura de design
