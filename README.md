@@ -119,7 +119,6 @@ Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento de
 - Lua 5.x
 - Git e GitHub
 
-
 ---
 
 > Este repositório será constantemente atualizado conforme o avanço no curso. Me acompanhe nessa jornada de constante aprendizado!
