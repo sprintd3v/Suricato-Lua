@@ -14,7 +14,6 @@ Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento de
 - [Cap 6 - Corrotinas e Threads](#cap-6---corrotinas-e-threads)
 - Mais capítulos serão adicionados conforme o progresso no curso
 
-
 ## 📝 Detalhes dos Capítulos
 
 ### Cap 1 - Introdução Elementar ao Lua
