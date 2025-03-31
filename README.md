@@ -4,7 +4,6 @@
 
 Bem-vindo ao meu repositório de estudos do curso de Lua para desenvolvimento dentro do FiveM! Este repositório documenta tudo que estou aprendendo, organizado por capítulos e tópicos, desde a programação básica até a aplicação avançada dentro do ambiente de servidores FiveM.
 
-
 ## 📚 Capítulos
 
 - [Cap 1 - Introdução Elementar ao Lua](#cap-1---introdução-elementar-ao-lua)
